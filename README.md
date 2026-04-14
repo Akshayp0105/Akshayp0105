@@ -10,11 +10,13 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-chi-tawny-53.vercel.app/api?username=Akshayp0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&v=2)
+## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=Akshayp0105&theme=dark&hide_border=false)
+![](https://github-readme-stats-chi-tawny-53.vercel.app/api?username=Akshayp0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600&v=5)
 
-![](https://github-readme-stats-chi-tawny-53.vercel.app/api/top-langs/?username=Akshayp0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&v=2)
+![](https://streak-stats.demolab.com/?user=Akshayp0105&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![](https://github-readme-stats-chi-tawny-53.vercel.app/api/top-langs/?username=Akshayp0105&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=3600&v=5)
 
 ---
 
