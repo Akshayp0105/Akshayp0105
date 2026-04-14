@@ -10,8 +10,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![](https://github-readme-stats-chi-tawny-53.vercel.app/api?username=Akshayp0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600&v=5)
 
 ![](https://streak-stats.demolab.com/?user=Akshayp0105&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
