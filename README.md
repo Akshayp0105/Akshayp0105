@@ -14,19 +14,14 @@
 
 ---
 
-## 🔥 Streak Stats
 
 ![](https://streak-stats.demolab.com/?user=Akshayp0105&theme=dark&hide_border=false&cache_seconds=1800&v=6)
 
 ---
 
-## 💻 Most Used Languages
-
 ![](https://github-readme-stats-chi-tawny-53.vercel.app/api/top-langs/?username=Akshayp0105&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800&v=6)
 
 ---
-
-## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Akshayp0105&theme=github-dark)
 
