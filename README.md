@@ -25,7 +25,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Akshayp0105&theme=github-dark)
 
 ---
+## Contribution Graph
 
+![GitHub Contribution Grid](https://ghchart.rshah.org/Akshayp0105)
 
 ## 🏆 GitHub Trophies
 
