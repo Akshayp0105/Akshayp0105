@@ -32,4 +32,6 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayp0105&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&cache_seconds=60&exclude_repo=repo-name)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
