@@ -54,6 +54,9 @@ const akshay = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Markup & Styling**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -81,11 +84,17 @@ const akshay = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-**Tools**
+**Dev Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Design Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -93,9 +102,8 @@ const akshay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshayp0105&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayp0105&layout=compact&theme=tokyonight" height="180"/>
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshayp0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayp0105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 </div>
 
@@ -125,7 +133,7 @@ const akshay = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Akshayp0105)
+<img src="https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
 
 </div>
 
