@@ -48,16 +48,12 @@ const akshay = {
 
 
 
----
+## 🛠️ TECH STACK
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,dart,react,nextjs,nodejs,express,fastapi,flutter,threejs,mongodb,firebase,supabase,git,github,docker,vercel,postman,figma,vscode,jira&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
----
+| [![JavaScript](https://techstack-generator.vercel.app/js-icon.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript | [![TypeScript](https://techstack-generator.vercel.app/ts-icon.svg)](https://www.typescriptlang.org/) TypeScript | [![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://www.python.org/) Python | [![React](https://techstack-generator.vercel.app/react-icon.svg)](https://reactjs.org/) React | [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) Next.js | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) Node.js | [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/) FastAPI | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) Flutter |
+|---|---|---|---|---|---|---|---|
+| [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) MongoDB | [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) Firebase | [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/) Supabase | [![Docker](https://techstack-generator.vercel.app/docker-icon.svg)](https://www.docker.com/) Docker | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) Git | [![GitHub](https://techstack-generator.vercel.app/github-icon.svg)](https://github.com/) GitHub | [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/) Figma | [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) Postman |
+| [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) VS Code | [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) Vercel | [![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/) Three.js | [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) Express.js | [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) Dart | [![Canva](https://skillicons.dev/icons?i=canva)](https://canva.com/) Canva | | |
 
 ## 📊 GitHub Stats
 
