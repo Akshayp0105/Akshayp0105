@@ -76,12 +76,10 @@ const akshay = {
 
 [![Akshay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshayp0105&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Akshayp0105)
 
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&column=4&margin-w=10&v=2" />
 </div>
 
 ## 💼 Work Experience
