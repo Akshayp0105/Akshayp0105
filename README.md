@@ -78,15 +78,11 @@ const akshay = {
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayp0105&theme=tokyonight&column=4&margin-w=10" />
 </div>
-
----
 
 ## 💼 Work Experience
 
