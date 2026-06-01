@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshay%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Community%20Leader&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akshay+P+%F0%9F%91%8B;Full+Stack+Developer+%7C+40%2B+Projects+Shipped;Founder+%40+CodeCatalyst+%7C+Co-Founder+%40+Korvet;React+%2B+Node.js+%2B+Python+%2B+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
