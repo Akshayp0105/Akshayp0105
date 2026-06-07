@@ -22,7 +22,7 @@ const akshay = {
   location    : "Kochi, Kerala, India 🇮🇳",
   degree      : "B.Tech CSE @ Toc H Institute (2023–2027)",
   roles       : [
-    "Full Stack Developer",
+    "Full Stack Developer Intern @ Samosa Interactive",
     "Founder @ CodeCatalyst Toc H",
     "Co-Founder @ Korvet Innovations",
     "Ex-Technical Lead @ TinkerHub"
