@@ -33,7 +33,7 @@ const akshay = {
   currentlyLearning: [
     "Advanced System Design",
     "AI/ML Integration in Products",
-    "Hardware + AI (EnvisionGlass)"
+    "Hardware + AI"
   ],
   dsa         : "100+ problems solved 🧠",
   funFact     : "I build things that don't exist yet 🔭",
